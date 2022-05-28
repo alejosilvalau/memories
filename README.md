@@ -1,14 +1,10 @@
 # memories
 
-![ExpressU](register.gif)
+![memories](main-overview.gif)
 
 ---
 
-![ExpressU](write.gif)
-
----
-
-![ExpressU](log_out.gif)
+![memories](create-memory.gif)
 
 ---
 
