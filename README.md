@@ -12,9 +12,6 @@
 
 The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. It uses React, Node.js, Express & MongoDB (MERN stack).
 
-(Deployed on netlify, search the link)
-(Change the gifs)
-
 - [memories](#memories)
   - [Summary](#summary)
 - [Usage](#usage)
